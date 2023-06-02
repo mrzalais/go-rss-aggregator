@@ -1,3 +1,4 @@
 .idea
 go-rss-aggregator.exe
 .env
+/vendor
