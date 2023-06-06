@@ -2,3 +2,4 @@
 go-rss-aggregator.exe
 .env
 /vendor
+/internal/database
